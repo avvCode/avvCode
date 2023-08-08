@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 
 ### 🏆 我的成就 ｜ My Achievements
-
-https://github-readme-stats.vercel.app/api?username=avvCode&show_icons=true&theme=radical
+<img src="https://github-readme-stats.vercel.app/api?username=avvCode&show_icons=true">
