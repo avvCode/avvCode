@@ -27,6 +27,4 @@ Here are some ideas to get you started:
 
 ### 🏆 我的成就 ｜ My Achievements
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=avvCode&count_private=true&show_icons=true" />
-</a>
+https://github-readme-stats.vercel.app/api?username=avvCode&show_icons=true&theme=radical
